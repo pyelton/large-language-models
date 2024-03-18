@@ -1,4 +1,4 @@
-## Large Language Models
+## Large Language Models: Application through Production Databricks Large Language Models
 
 This repo contains the notebooks and slides for the [Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production) course on [edX](https://www.edx.org/professional-certificate/databricks-large-language-models) & Databricks Academy.
  
